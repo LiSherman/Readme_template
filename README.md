@@ -8,7 +8,8 @@ Article abstract or respository information.
 # Reproduce Experiments
 
 This section gives a short overview of how to reproduce the experiments presented in the paper. 
-Take about the subdirection and its contents.
+
+Talk about the subdirection and its contents.
 Clarify the path to execution direction and the input/output read/write path.
 
 
